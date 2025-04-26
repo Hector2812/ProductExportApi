@@ -82,6 +82,10 @@ Funcionalidades Principales (Operaciones REST)
 - Genera un archivo Word con los datos del producto seleccionado.
 
 
+![image](https://github.com/user-attachments/assets/4c3ec286-308c-48c8-abab-e52d4cbcc812)
+
+
+
 Flujo de Datos Interno
 
 1. Cliente envía solicitud HTTP a través de Swagger o Postman.
