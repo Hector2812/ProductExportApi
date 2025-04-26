@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Name": "Naranja",
+    "Description": "Comida",
+    "Price": 10,
+    "Stock": 1000
+  }
+]
